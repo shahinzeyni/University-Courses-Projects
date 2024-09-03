@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:58CA182A
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega32.h"
+NODE:M LEVEL:0 LINE:25 "led_blue"
+NODE:M LEVEL:0 LINE:26 "led_red"
+NODE:M LEVEL:0 LINE:27 "led_test"
+NODE:V LEVEL:0 LINE:28 "speed_blue -> R4,R5"
+NODE:V LEVEL:0 LINE:29 "speed_red -> R6,R7"
+NODE:V LEVEL:0 LINE:31 "time -> R8,R9"
+NODE:F LEVEL:0 LINE:33 "ext_int0_isr(void)"
+NODE:F LEVEL:0 LINE:53 "ext_int1_isr(void)"
+NODE:F LEVEL:0 LINE:82 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:111 "main(void)"

@@ -1,0 +1,2 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"finalpro.c" LINE:111
+timer0_ovf_isr DSTACK_USAGE:8 DSTACK_LEVEL:8 FILE:"finalpro.c" LINE:82

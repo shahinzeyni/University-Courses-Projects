@@ -1,0 +1,22 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+speed_blue                                                                        R4,R5        2
+speed_red                                                                         R6,R7        2
+time                                                                              R8,R9        2
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+ext_int0_isr                                                                      0x0005E     37
+ext_int1_isr                                                                      0x00083     41
+timer0_ovf_isr                                                                    0x000AC     46
+main                                                                              0x000DA     55
